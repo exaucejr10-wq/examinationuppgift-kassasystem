@@ -1,0 +1,9 @@
+# id;namn;pris;pristyp (Styck eller Kg)
+300;Bananer;29.90;Kg
+301;Mjölk;15.90;Styck
+302;Kaffe;59.90;Styck
+303;Äpplen;34.90;Kg
+304;Bröd;32.50;Styck
+305;Smör;54.95;Styck
+306;Potatis;14.90;Kg
+307;Ost;119.00;Kg
