@@ -7,7 +7,7 @@ Konsolapplikation i C# (.NET 8) som simulerar en kassa i en mindre butik.
 
 ```
 git clone <repo-länk>
-cd Kassasystem
+cd examinationuppgift-kassasystem
 dotnet restore
 dotnet build
 dotnet test
